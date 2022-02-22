@@ -1,0 +1,5 @@
+site_name: Getting Stated with Open Source
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Abshar: abshar.md
