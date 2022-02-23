@@ -3,3 +3,4 @@ theme: readthedocs
 nav:
   - Home: index.md
   - Abshar: abshar.md
+  - Latif: Latif.md
